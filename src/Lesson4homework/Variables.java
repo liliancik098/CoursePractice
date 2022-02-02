@@ -1,7 +1,8 @@
-package Variables;
+package Lesson4homework;
 
-public class Main {
+public class Variables {
     public static void main(String[] args) {
+        int a = 30;
         long currentWorldPopulation = 7811080815L;
         int carsProducesThisYear = 55235358;
         char firstLetterInAlphabet = 'A';
@@ -14,3 +15,4 @@ public class Main {
         System.out.println("Java is amazing? " + javaIsAmazing);
     }
 }
+
