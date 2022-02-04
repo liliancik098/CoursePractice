@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lesson4homework/MinutesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4homework/MinutesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +88,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.MinutesConverter">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloJavaWorld.Main" />
+  <component name="RunManager" selected="Application.FlotingPointNumber">
+    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5homework.Area" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HelloJavaWorld.*" />
+          <option name="PATTERN" value="Lesson5homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="edut.tekwill.academy.java.Main" />
+    <configuration name="FlotingPointNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5homework.FlotingPointNumber" />
       <module name="TekWill Java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,6 +121,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson4homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson5homework.OddOrEven" />
+      <module name="TekWill Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,32 +154,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.Variables" />
-      <module name="TekWill Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Variables" />
       <item itemvalue="Application.TexCalculator" />
       <item itemvalue="Application.MinutesConverter" />
+      <item itemvalue="Application.OddOrEven" />
+      <item itemvalue="Application.Area" />
+      <item itemvalue="Application.FlotingPointNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlotingPointNumber" />
+        <item itemvalue="Application.OddOrEven" />
+        <item itemvalue="Application.Area" />
         <item itemvalue="Application.MinutesConverter" />
         <item itemvalue="Application.TexCalculator" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +181,8 @@
       <updated>1643639816461</updated>
       <workItem from="1643639817560" duration="4002000" />
       <workItem from="1643738209765" duration="876000" />
-      <workItem from="1643812864481" duration="5102000" />
+      <workItem from="1643812864481" duration="6894000" />
+      <workItem from="1643908154524" duration="6576000" />
     </task>
     <servers />
   </component>
