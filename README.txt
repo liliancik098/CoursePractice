@@ -1,3 +1,3 @@
-![banner](https://i.postimg.cc/J4jYdWHG/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
 testing
