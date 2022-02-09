@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/homework/lesson7/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/homework/lesson7/DoWhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +195,7 @@
       <workItem from="1643993154181" duration="623000" />
       <workItem from="1644146591598" duration="10732000" />
       <workItem from="1644259510290" duration="3558000" />
-      <workItem from="1644392578775" duration="3186000" />
+      <workItem from="1644392578775" duration="3825000" />
     </task>
     <servers />
   </component>

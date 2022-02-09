@@ -10,7 +10,7 @@ public class DoWhileLoop {
     public static void sumOfTwoNumbers() {
         double nr1, nr2, sum;
         String textForExit;
-        boolean stop = false;
+        boolean stop = true;
         Scanner input = new Scanner(System.in);
 
         do {
@@ -23,10 +23,8 @@ public class DoWhileLoop {
             System.out.println("Sum of " + nr1 + " and " + nr2 + " is = " + sum);
             System.out.println("Would you like to repeat the operation?");
             textForExit = input.next();
-            if (textForExit.equals("yes")) {
-                stop = true;
-            } else stop = false;
-        } while (stop);
+            stop = !textForExit.equals("yes");
+        } while (!stop);
         {
             System.out.println("Bye bye!");
         }
