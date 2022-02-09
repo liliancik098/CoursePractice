@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +97,13 @@
       <recent name="$PROJECT_DIR$/src/com/homework/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintNum">
-    <configuration name="FlotingPointNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5homework.FlotingPointNumber" />
+  <component name="RunManager" selected="Application.DivisibleNum">
+    <configuration name="DivisibleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.lesson7.DivisibleNum" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson5homework.*" />
+          <option name="PATTERN" value="com.homework.lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FlotingPointNumber" />
       <item itemvalue="Application.Simplify" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.TernaryOperator" />
       <item itemvalue="Application.PrintNum" />
+      <item itemvalue="Application.DivisibleNum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivisibleNum" />
         <item itemvalue="Application.PrintNum" />
         <item itemvalue="Application.TernaryOperator" />
         <item itemvalue="Application.Simplify" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.FlotingPointNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,9 @@
       <workItem from="1643812864481" duration="6894000" />
       <workItem from="1643908154524" duration="6914000" />
       <workItem from="1643993154181" duration="623000" />
-      <workItem from="1644146591598" duration="9465000" />
+      <workItem from="1644146591598" duration="10732000" />
+      <workItem from="1644259510290" duration="3558000" />
+      <workItem from="1644392578775" duration="633000" />
     </task>
     <servers />
   </component>
