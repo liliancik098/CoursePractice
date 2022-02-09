@@ -3,6 +3,7 @@ package com.homework.lesson7;
 /**
  * Write a program that prompts user for a positive integer. The program
  * shall read the input as int; and print the "reverse" of the input integer.
+ *
  * @author Pletosu Lilian
  */
 
@@ -10,7 +11,9 @@ import java.util.Scanner;
 
 public class Inversion {
     public static void main(String[] args) {
+
         numInversion();
+
     }
 
     public static void numInversion() {
