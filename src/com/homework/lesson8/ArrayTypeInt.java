@@ -34,10 +34,10 @@ public class ArrayTypeInt {
         for (int array : arr) {
             System.out.print(array + " ");
         }
-        reverseArray(arr);
+        reverseElementsInArray(arr);
     }
 
-    public static void reverseArray(int[] arr) {
+    public static void reverseElementsInArray(int[] arr) {
         System.out.println();
         System.out.println("Now, we reversed all numbers in your array!");
         for (int j = 0; j < arr.length; j++) {
