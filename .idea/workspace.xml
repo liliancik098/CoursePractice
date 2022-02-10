@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="" />
+    <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,9 +103,22 @@
       <recent name="$PROJECT_DIR$/src/com/homework/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayTypeInt">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="ArrayTypeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.homework.lesson8.ArrayTypeInt" />
+      <module name="TekWill Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.lesson8.Calculator" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
@@ -154,33 +169,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.lesson6.PrintNum" />
-      <module name="TekWill Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.homework.lesson6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.PrintNum" />
       <item itemvalue="Application.DivisibleNum" />
       <item itemvalue="Application.DoWhileLoop" />
       <item itemvalue="Application.Inversion" />
       <item itemvalue="Application.ArrayTypeInt" />
+      <item itemvalue="Application.Calculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ArrayTypeInt" />
         <item itemvalue="Application.Inversion" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.DivisibleNum" />
-        <item itemvalue="Application.PrintNum" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +205,7 @@
       <workItem from="1644405492293" duration="442000" />
       <workItem from="1644420176648" duration="171000" />
       <workItem from="1644434045992" duration="7127000" />
+      <workItem from="1644531712033" duration="4196000" />
     </task>
     <servers />
   </component>
