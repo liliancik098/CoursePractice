@@ -92,6 +92,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/homework/lesson5" />
@@ -103,7 +105,7 @@
       <recent name="$PROJECT_DIR$/src/com/homework/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.CopyArray">
     <configuration name="ArrayTypeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.homework.lesson8.ArrayTypeInt" />
       <module name="TekWill Java" />
@@ -130,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisibleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.lesson7.DivisibleNum" />
+    <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.lesson8.CopyArray" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.lesson7.*" />
+          <option name="PATTERN" value="com.homework.lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DivisibleNum" />
       <item itemvalue="Application.DoWhileLoop" />
       <item itemvalue="Application.Inversion" />
       <item itemvalue="Application.ArrayTypeInt" />
       <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.CopyArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyArray" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ArrayTypeInt" />
         <item itemvalue="Application.Inversion" />
         <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.DivisibleNum" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +207,8 @@
       <workItem from="1644405492293" duration="442000" />
       <workItem from="1644420176648" duration="171000" />
       <workItem from="1644434045992" duration="7127000" />
-      <workItem from="1644531712033" duration="4196000" />
+      <workItem from="1644531712033" duration="4722000" />
+      <workItem from="1644564528427" duration="2156000" />
     </task>
     <servers />
   </component>
@@ -242,6 +245,15 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/homework/lesson8/CopyArray.java</url>
+          <line>10</line>
+          <properties class="com.homework.lesson8.CopyArray" method="cloneArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
