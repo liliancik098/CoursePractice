@@ -105,7 +105,7 @@
       <recent name="$PROJECT_DIR$/src/com/homework/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxAndMin">
+  <component name="RunManager" selected="Application.FindValueInArray">
     <configuration name="ArrayTypeInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.homework.lesson8.ArrayTypeInt" />
       <module name="TekWill Java" />
@@ -145,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.lesson7.Inversion" />
+    <configuration name="FindValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.lesson8.FindValueInArray" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.lesson7.*" />
+          <option name="PATTERN" value="com.homework.lesson8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,19 +172,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Inversion" />
       <item itemvalue="Application.ArrayTypeInt" />
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.CopyArray" />
       <item itemvalue="Application.MaxAndMin" />
+      <item itemvalue="Application.FindValueInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindValueInArray" />
         <item itemvalue="Application.MaxAndMin" />
         <item itemvalue="Application.CopyArray" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.ArrayTypeInt" />
-        <item itemvalue="Application.Inversion" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,7 @@
       <workItem from="1644434045992" duration="7127000" />
       <workItem from="1644531712033" duration="4722000" />
       <workItem from="1644564528427" duration="3382000" />
-      <workItem from="1644567968613" duration="1859000" />
+      <workItem from="1644567968613" duration="2849000" />
     </task>
     <servers />
   </component>
