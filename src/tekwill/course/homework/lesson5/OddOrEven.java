@@ -1,4 +1,4 @@
-package com.homework.lesson5;
+package tekwill.course.homework.lesson5;
 
 import java.util.Scanner;
 

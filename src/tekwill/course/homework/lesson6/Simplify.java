@@ -1,4 +1,4 @@
-package com.homework.lesson6;
+package tekwill.course.homework.lesson6;
 
 public class Simplify {
     public static void main(String[] args) {

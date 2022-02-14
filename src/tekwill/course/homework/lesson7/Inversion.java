@@ -1,4 +1,4 @@
-package com.homework.lesson7;
+package tekwill.course.homework.lesson7;
 
 /**
  * Write a program that prompts user for a positive integer. The program

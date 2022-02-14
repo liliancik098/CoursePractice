@@ -1,4 +1,4 @@
-package com.homework.lesson7;
+package tekwill.course.homework.lesson7;
 
 /***
  * Create a program that displays all numbers from 100 to 1,000, ten per

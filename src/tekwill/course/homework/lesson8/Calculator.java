@@ -1,4 +1,4 @@
-package com.homework.lesson8;
+package tekwill.course.homework.lesson8;
 
 /**
  * Make a Java program that would calculate the sum, average, the number of even
