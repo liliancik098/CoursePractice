@@ -1,4 +1,4 @@
-package tekwill.course.homework.lesson9.areaRectangle;
+package tekwill.course.homework.lesson9;
 
 public class Employee {
     private String name;
