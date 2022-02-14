@@ -29,4 +29,11 @@ public class Employee {
             employee.display();
         }
     }
+
+    //    Output:
+    //    Name  Year of joining  Address
+    //
+    //    Robert    1994      64C- WallsStreat
+    //    Sam       2000      68D- WallsStreat
+    //    John      1999      26B- WallsStreat
 }
