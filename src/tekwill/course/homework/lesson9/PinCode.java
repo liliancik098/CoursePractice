@@ -4,18 +4,19 @@ import java.util.Scanner;
 
 public class PinCode {
 
-    public static void verifyPin(){
-        final int pin  = 45595;
+    public static void verifyPin() {
+        final int pin = 45595;
         int count = 0;
         int inputCode;
         boolean CodeVerify = false;
         Scanner scanner = new Scanner(System.in);
-        while (count != 3) {
+        while (!CodeVerify) {
             System.out.print("Enter pin code: ");
             inputCode = scanner.nextInt();
             if (inputCode == pin) {
                 System.out.println("Correct, welcome back.");
                 CodeVerify = true;
+                break;
             } else  {
                 System.out.println("Incorrect, try again.");
                 count++;
@@ -23,7 +24,7 @@ public class PinCode {
         }
         if (!CodeVerify) {
             System.out.println("Sorry but you have been locked out.");
-        };
+        }
     }
 
     public static void main(String[] args) {
