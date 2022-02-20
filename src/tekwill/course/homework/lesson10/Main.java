@@ -11,6 +11,18 @@ public class Main {
         System.out.println(weekDay.isWeekDay(WeekDay.days.SATURDAY));
         System.out.println(weekDay.isHoliday(WeekDay.days.SATURDAY));
         System.out.println("######################################################################");
+
+        Converter converter = new Converter();
+        converter.setString("5653");
+        converter.setNumber(converter.getString());
+        System.out.println(converter.getNumber());
+        converter.setString("FalsE");
+        converter.setaBoolean(converter.getString());
+        System.out.println(converter.isaBoolean());
+
+
+
     }
+
 
 }
