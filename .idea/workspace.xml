@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tekwill/course/homework/lesson9/PinCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/course/homework/lesson9/PinCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,7 @@
       <recent name="tekwill.course.homework.lesson9.arearectangle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PinCode">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Employee (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tekwill.course.homework.lesson9.Employee" />
       <module name="TekWill Java" />
@@ -159,11 +158,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.course.homework.lesson9.areaRectangle.Main" />
+      <option name="MAIN_CLASS_NAME" value="tekwill.course.homework.lesson10.Main" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tekwill.course.homework.lesson9.areaRectangle.*" />
+          <option name="PATTERN" value="tekwill.course.homework.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +192,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PinCode" />
         <item itemvalue="Application.FindSymbol" />
         <item itemvalue="Application.Employee (1)" />
         <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +225,9 @@
       <workItem from="1644576537056" duration="391000" />
       <workItem from="1644778347423" duration="12991000" />
       <workItem from="1644835811408" duration="196000" />
-      <workItem from="1645034051272" duration="3416000" />
+      <workItem from="1645034051272" duration="5061000" />
+      <workItem from="1645137790715" duration="2344000" />
+      <workItem from="1645288854134" duration="2411000" />
     </task>
     <servers />
   </component>
