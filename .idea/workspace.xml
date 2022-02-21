@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b3b4414-98f1-4b1e-89f0-e8a39e3f0132" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tekwill/course/homework/lesson10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tekwill/course/homework/lesson10/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +118,7 @@
       <recent name="tekwill.course.homework.lesson9.arearectangle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestSavingsAccount">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Employee (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tekwill.course.homework.lesson9.Employee" />
       <module name="TekWill Java" />
@@ -149,7 +150,7 @@
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tekwill.course.homework.lesson10.*" />
+          <option name="PATTERN" value="tekwill.course.homework.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +172,11 @@
       </method>
     </configuration>
     <configuration name="TestSavingsAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekwill.course.homework.lesson10.TestSavingsAccount" />
+      <option name="MAIN_CLASS_NAME" value="tekwill.course.homework.lesson11.TestSavingsAccount" />
       <module name="TekWill Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tekwill.course.homework.lesson10.*" />
+          <option name="PATTERN" value="tekwill.course.homework.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,8 +193,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestSavingsAccount" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestSavingsAccount" />
         <item itemvalue="Application.PinCode" />
         <item itemvalue="Application.FindSymbol" />
         <item itemvalue="Application.Employee (1)" />
@@ -227,7 +228,10 @@
       <workItem from="1644835811408" duration="196000" />
       <workItem from="1645034051272" duration="5061000" />
       <workItem from="1645137790715" duration="2344000" />
-      <workItem from="1645288854134" duration="14334000" />
+      <workItem from="1645288854134" duration="14822000" />
+      <workItem from="1645426889761" duration="8724000" />
+      <workItem from="1645437587092" duration="2793000" />
+      <workItem from="1645445298172" duration="644000" />
     </task>
     <servers />
   </component>

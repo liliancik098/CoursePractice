@@ -1,4 +1,6 @@
-package tekwill.course.homework.lesson10;
+package tekwill.course.homework.lesson11;
+
+import tekwill.course.homework.lesson11.SavingsAccount;
 
 public class TestSavingsAccount {
     public static void main(String[] args) {

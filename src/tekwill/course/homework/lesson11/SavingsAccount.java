@@ -1,4 +1,4 @@
-package tekwill.course.homework.lesson10;
+package tekwill.course.homework.lesson11;
 
 public class SavingsAccount {
     int months = 12;
