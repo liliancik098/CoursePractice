@@ -5,7 +5,7 @@ import java.time.LocalTime;
 public class ParkingTest {
     public static void main(String[] args) {
         ParkingCharges client1 = new ParkingCharges();
-        LocalTime parkingHours = LocalTime.of(23,0);
+        LocalTime parkingHours = LocalTime.of(1,0);
         client1.calculateCharges(parkingHours);
     }
 }
