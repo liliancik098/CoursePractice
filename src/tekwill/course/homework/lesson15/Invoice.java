@@ -1,9 +1,9 @@
 package tekwill.course.homework.lesson15;
 
-import tekwill.course.homework.lesson15.util.ValidationInput;
+import tekwill.course.homework.lesson15.util.Validation;
 
 public class Invoice {
-    ValidationInput validationInput = new ValidationInput();
+    Validation validation = new Validation();
     private String deviceModel;
     private String deviceDescription;
     private int qtyPurchasedProducts;
@@ -12,8 +12,8 @@ public class Invoice {
     public Invoice(String deviceModel, String deviceDescription, int qtyPurchasedProducts, double priceProduct) {
         this.deviceModel = deviceModel;
         this.deviceDescription = deviceDescription;
-        this.qtyPurchasedProducts = validationInput.validInt(qtyPurchasedProducts);
-        this.priceProduct = validationInput.validDouble(priceProduct);
+        this.qtyPurchasedProducts = validation.validInt(qtyPurchasedProducts);
+        this.priceProduct = validation.validDouble(priceProduct);
     }
 
     public String getDeviceModel() {
@@ -37,7 +37,7 @@ public class Invoice {
     }
 
     public void setQtyPurchasedProducts(int qtyPurchasedProducts) {
-        this.qtyPurchasedProducts = validationInput.validInt(qtyPurchasedProducts);
+        this.qtyPurchasedProducts = validation.validInt(qtyPurchasedProducts);
     }
 
     public double getPriceProduct() {
@@ -45,7 +45,7 @@ public class Invoice {
     }
 
     public void setPriceProduct(double priceProduct) {
-        this.priceProduct = validationInput.validDouble(priceProduct);
+        this.priceProduct = validation.validDouble(priceProduct);
     }
 
     public void getAmount() {
